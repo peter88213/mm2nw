@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="2.0.2" hexVersion="0x020002f0" fileVersion="1.5" timeStamp="2023-06-06 16:03:13">
+  <project>
+    <name>Roman</name>
+    <title>Roman</title>
+    <author />
+  </project>
+  <settings>
+    <status>
+      <entry key="s000001" count="0" blue="230" green="230" red="230">None</entry>
+      <entry key="s000002" count="0" blue="0" green="0" red="0">Outline</entry>
+      <entry key="s000003" count="0" blue="0" green="40" red="170">Draft</entry>
+      <entry key="s000004" count="0" blue="0" green="140" red="240">1st Edit</entry>
+      <entry key="s000005" count="0" blue="90" green="190" red="250">2nd Edit</entry>
+      <entry key="s000006" count="0" blue="58" green="180" red="58">Done</entry>
+    </status>
+    <importance>
+      <entry key="i000001" count="0" blue="220" green="220" red="220">None</entry>
+      <entry key="i000002" count="0" blue="188" green="122" red="0">Minor</entry>
+      <entry key="i000003" count="0" blue="180" green="0" red="21">Major</entry>
+    </importance>
+  </settings>
+  <content count="39">
+    <item handle="53ca4659fb3c2" parent="None" order="0" type="ROOT" class="NOVEL">
+      <name>Novel</name>
+      <meta />
+    </item>
+    <item handle="fba799ccd585e" parent="53ca4659fb3c2" order="0" type="FOLDER" class="NOVEL">
+      <name>Erster Teil</name>
+      <meta />
+    </item>
+    <item handle="04a3faadd917b" parent="fba799ccd585e" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Erster Teil</name>
+      <meta />
+    </item>
+    <item handle="2b043b2a041c3" parent="fba799ccd585e" order="1" type="FOLDER">
+      <name>Erstes kapitel</name>
+      <meta />
+    </item>
+    <item handle="a2193e531fe3e" parent="2b043b2a041c3" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Erstes kapitel</name>
+      <meta />
+    </item>
+    <item handle="e42ee69472c39" parent="2b043b2a041c3" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Erste Szene</name>
+      <meta />
+    </item>
+    <item handle="ad009e36aad5c" parent="2b043b2a041c3" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Zweite Szene</name>
+      <meta />
+    </item>
+    <item handle="3c7ea4103ac10" parent="2b043b2a041c3" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Dritte Szene</name>
+      <meta />
+    </item>
+    <item handle="a22a659b30840" parent="fba799ccd585e" order="2" type="FOLDER">
+      <name>Zweites Kapitel</name>
+      <meta />
+    </item>
+    <item handle="0f2e1316f4d34" parent="a22a659b30840" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Zweites Kapitel</name>
+      <meta />
+    </item>
+    <item handle="fb0bb7b608685" parent="a22a659b30840" order="1" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">vierte Szene</name>
+      <meta />
+    </item>
+    <item handle="298903476ab1b" parent="a22a659b30840" order="2" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">fünfte Szene</name>
+      <meta />
+    </item>
+    <item handle="b34bcd816a8dd" parent="53ca4659fb3c2" order="3" type="FOLDER" class="NOVEL">
+      <name>Zweiter Teil</name>
+      <meta />
+    </item>
+    <item handle="a2b68e974ed1f" parent="b34bcd816a8dd" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Zweiter Teil</name>
+      <meta />
+    </item>
+    <item handle="2c964be18572f" parent="b34bcd816a8dd" order="1" type="FOLDER">
+      <name>Drittes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="61c902f091bb7" parent="2c964be18572f" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Drittes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="b403c50a590fa" parent="2c964be18572f" order="1" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">Sechste Szene</name>
+      <meta />
+    </item>
+    <item handle="fba4da9cfb12b" parent="2c964be18572f" order="2" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">Siebte Szene</name>
+      <meta />
+    </item>
+    <item handle="434f36007ef46" parent="2c964be18572f" order="3" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">Achte Szene</name>
+      <meta />
+    </item>
+    <item handle="d0d2e1aea9ab0" parent="b34bcd816a8dd" order="2" type="FOLDER">
+      <name>Viertes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="eb01723c6148f" parent="d0d2e1aea9ab0" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Viertes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="2e2dcf911b127" parent="d0d2e1aea9ab0" order="1" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">Neunte Szene</name>
+      <meta />
+    </item>
+    <item handle="ce7f005f778fb" parent="d0d2e1aea9ab0" order="2" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000002" import="i000001" active="yes">Zehnte Szene</name>
+      <meta />
+    </item>
+    <item handle="4094932b08f8c" parent="53ca4659fb3c2" order="3" type="FOLDER" class="NOVEL">
+      <name>Dritter Teil</name>
+      <meta />
+    </item>
+    <item handle="9d07957fe265c" parent="4094932b08f8c" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Dritter Teil</name>
+      <meta />
+    </item>
+    <item handle="3d92330f78ee6" parent="4094932b08f8c" order="1" type="FOLDER">
+      <name>Fünftes kapitel</name>
+      <meta />
+    </item>
+    <item handle="d885d05a64161" parent="3d92330f78ee6" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Fünftes kapitel</name>
+      <meta />
+    </item>
+    <item handle="72ba7d52076e8" parent="4094932b08f8c" order="2" type="FOLDER">
+      <name>Sechstes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="75570f36769d4" parent="72ba7d52076e8" order="0" type="FILE" class="NOVEL" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Sechstes Kapitel</name>
+      <meta />
+    </item>
+    <item handle="69b26edc36d3f" parent="None" order="4" type="ROOT" class="CHARACTER">
+      <name status="s000001" import="i000001">Characters</name>
+      <meta />
+    </item>
+    <item handle="10c1c28ee071d" parent="69b26edc36d3f" order="0" type="FILE" class="CHARACTER" layout="NOTE">
+      <name status="s000001" import="i000003" active="yes">Pyramus</name>
+      <meta />
+    </item>
+    <item handle="0da3fd2ffa13f" parent="69b26edc36d3f" order="1" type="FILE" class="CHARACTER" layout="NOTE">
+      <name status="s000001" import="i000003" active="yes">Thisbe</name>
+      <meta />
+    </item>
+    <item handle="e27308ad648e6" parent="69b26edc36d3f" order="2" type="FILE" class="CHARACTER" layout="NOTE">
+      <name status="s000001" import="i000002" active="yes">Der Gärtner</name>
+      <meta />
+    </item>
+    <item handle="e3bb33f071ca8" parent="69b26edc36d3f" order="3" type="FILE" class="CHARACTER" layout="NOTE">
+      <name status="s000001" import="i000002" active="yes">Der butler</name>
+      <meta />
+    </item>
+    <item handle="81d9a9428ac6f" parent="None" order="5" type="ROOT" class="WORLD">
+      <name status="s000001" import="i000001">Locations</name>
+      <meta />
+    </item>
+    <item handle="79073915f7ce6" parent="81d9a9428ac6f" order="0" type="FILE" class="WORLD" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Hades</name>
+      <meta />
+    </item>
+    <item handle="101ac2c356472" parent="81d9a9428ac6f" order="1" type="FILE" class="WORLD" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Olymp</name>
+      <meta />
+    </item>
+    <item handle="94b5734be0282" parent="None" order="6" type="ROOT" class="OBJECT">
+      <name status="s000001" import="i000001">Items</name>
+      <meta />
+    </item>
+    <item handle="977cc077d9593" parent="94b5734be0282" order="0" type="FILE" class="OBJECT" layout="NOTE">
+      <name status="s000001" import="i000001" active="yes">Stab</name>
+      <meta />
+    </item>
+  </content>
+</novelWriterXML>
