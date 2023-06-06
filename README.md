@@ -1,6 +1,6 @@
 # mm2nw
 
-Generate a NovelWriter project from a FreeMind/Freeplane outline. 
+Generate a novelWriter project from a FreeMind/Freeplane outline. 
 
 ## Features
 
