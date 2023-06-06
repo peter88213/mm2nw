@@ -46,7 +46,7 @@ usage: `mm2nw.py [-h] [--silent] Sourcefile`
 
 `Sourcefile` 
 
-The path of the .mm or file. 
+The path of the .mm file. 
 
 #### optional arguments:
 
