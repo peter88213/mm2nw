@@ -1,7 +1,7 @@
 """Provide a class for FreeMind file representation.
 
 Copyright (c) 2023 Peter Triesberger
-For further information see https://github.com/peter88213/aeon2yw
+For further information see https://github.com/peter88213/mm2yw7
 Published under the MIT License (https://opensource.org/licenses/mit-license.php)
 """
 import xml.etree.ElementTree as ET
