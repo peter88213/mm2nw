@@ -40,7 +40,7 @@ Alternatively, you can
 - launch the program on the command line passing the mindmap file as an argument, or
 - launch the program via a batch file.
 
-usage: `mm2nw.py [-h] [-d] [--silent] Sourcefile`
+usage: `mm2nw.py [-h] [--silent] Sourcefile`
 
 #### positional arguments:
 
