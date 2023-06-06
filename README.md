@@ -17,6 +17,11 @@ Generate a NovelWriter project from a FreeMind/Freeplane outline.
 
 - [Python](https://www.python.org/) version 3.6+.
 
+## Download link
+
+[https://raw.githubusercontent.com/peter88213/mm2nw/main/mm2nw.py](https://raw.githubusercontent.com/peter88213/mm2nw/main/mm2nw.py)
+
+
 ## Instructions for use
 
 ### Intended usage
