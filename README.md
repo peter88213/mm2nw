@@ -28,7 +28,7 @@ Generate a NovelWriter project from a FreeMind/Freeplane outline.
 
 After placing the downloaded script **mm2nw.py** to a convenient place, you might want to create a shortcut on the desktop. 
 
-If you drag a *.mm* mindmap file with extension *.yw7* and drop it on the icon, a new novelWriter project is generated in a directory named after the mindmap file. 
+If you drag a mindmap file with extension *.mm* and drop it on the icon, a new novelWriter project is generated in a directory named after the mindmap file. 
 
 Existing novelWriter project directories will be renamed as a whole and get the extension *.bak*. 
 If there is already such a directory, a new, numbered backup directory is created with the  extension *.bkxxxx*
