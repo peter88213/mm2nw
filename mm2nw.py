@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Convert FreeMind to novelWriter
 
-Version 0.1.1
+Version 0.1.2
 Requires Python 3.6+
 Copyright (c) 2023 Peter Triesberger
 For further information see https://github.com/peter88213/mm2nw
@@ -1877,7 +1877,7 @@ class MmNwConverter(YwCnvUi):
                 os.makedirs(f'{prjDir}{NwxFile.CONTENT_DIR}')
             targetFile = NwxFile(f'{prjDir}/nwProject.nwx', **kwargs)
             self.ui.set_info_what(
-                _('Create a novelWriter project file from {0}\nNew project: "{1}"').format(sourceFile.DESCRIPTION, norm_path(targetFile.filePath)))
+                _('Create a novelWriter project from {0}\nNew project: "{1}"').format(sourceFile.DESCRIPTION, norm_path(targetFile.filePath)))
             try:
                 self.check(sourceFile, targetFile)
                 sourceFile.novel = Novel()

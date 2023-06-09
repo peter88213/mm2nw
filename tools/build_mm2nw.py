@@ -8,7 +8,7 @@ Published under the MIT License (https://opensource.org/licenses/mit-license.php
 """
 import inliner
 
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 
 SRC = '../src/'
 BUILD = '../'
