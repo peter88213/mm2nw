@@ -2,7 +2,9 @@
 
 ## Features
 
-This Python script generates a [novelWriter](https://novelwriter.io/) project from a FreeMind/Freeplane outline. 
+This Python script generates a [novelWriter](https://novelwriter.io/) project from a 
+[FreeMind](https://freemind.sourceforge.io/wiki/index.php/Main_Page) /
+[Freeplane](https://docs.freeplane.org/) outline. 
 
 - mm2nw converts three levels of the novel structure: Parts, chapters, and scenes.
 - mm2nw converts a set of main characters.
