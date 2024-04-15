@@ -109,3 +109,37 @@ This icon makes a node element and its children (if any) *Note* type:
 
 mm2nw is distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
+---
+
+## See also
+
+
+### nw_metadata
+
+Create a cross reference table with novelWriter metadata. 
+
+[nw_metadata](https://github.com/peter88213/nw_metadata)
+
+
+### odt2nw
+
+Generate a novelWriter project from a work in progress written with e.g. LibreOffice.
+
+[odt2nw](https://github.com/peter88213/odt2nw/)
+
+
+### md2nw
+
+Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
+
+[md2nw](https://github.com/peter88213/md2nw/)
+
+
+### yw2nw
+
+Converter between yWriter and novelWriter.
+
+[![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
+
+
+
