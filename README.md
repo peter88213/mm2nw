@@ -6,13 +6,13 @@ This Python script generates a [novelWriter](https://novelwriter.io/) project fr
 [FreeMind](https://freemind.sourceforge.io/wiki/index.php/Main_Page) /
 [Freeplane](https://docs.freeplane.org/) outline. 
 
-- mm2nw converts three levels of the novel structure: Parts, chapters, and scenes.
-- mm2nw converts a set of main characters.
-- mm2nw converts a set of minor characters.
-- mm2nw converts a set of locations.
-- mm2nw converts a set of items.
-- mm2nw makes the node label the title of the converted element.
-- mm2nw makes the node notes the description of the converted element.
+- Convert three levels of the novel structure: Parts, chapters, and scenes.
+- Convert a set of main characters.
+- Convert a set of minor characters.
+- Convert a set of locations.
+- Convert a set of items.
+- Make the node label the title of the converted element.
+- Make the node notes the description of the converted element.
 - The chapter/scene types can be set by specified icons.
 
 ## Requirements
